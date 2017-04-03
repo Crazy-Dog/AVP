@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(22): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+Source.cpp(38): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  All 12 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1_1.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication1_1\x64\Release\ConsoleApplication1_1.exe
+  ConsoleApplication1_1.vcxproj -> c:\users\admin\documents\visual studio 2015\Projects\ConsoleApplication1_1\x64\Release\ConsoleApplication1_1.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  Source.cpp
+Source.cpp(26): warning C4244: =: преобразование "LONGLONG" в "double", возможна потеря данных
+  Создание кода
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplicationCPU4.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\ConsoleApplicationCPU4\x64\Release\ConsoleApplicationCPU4.exe
+  ConsoleApplicationCPU4.vcxproj -> C:\Users\admin\documents\visual studio 2015\Projects\ConsoleApplicationCPU4\x64\Release\ConsoleApplicationCPU4.pdb (Full PDB)
